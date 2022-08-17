@@ -734,7 +734,7 @@ p {
   line-height: 23px;
 }
 
-img {
+.pseudo_body.post img {
   width: 100%;
   margin: 25px 0;
 }
